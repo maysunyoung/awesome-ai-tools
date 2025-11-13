@@ -154,6 +154,7 @@
 
 ### Video Generators
 
+- [Free Video Generator](https://freevideogenerator.io/) - AI-powered free video generator for creating stunning videos effortlessly.. [Free]
 - [Vid.AI](https://vid.ai) - AI-driven tool simplifies video creation and editing.. [Paid]
 - [Synthesia](https://www.synthesia.io) -  Create professional AI-powered videos with customizable avatars and voiceovers in minutes.. [Paid]
 - [Pictory](https://pictory.ai) - Transform text into polished videos effortlessly; edit with ease.. [Free Trial]

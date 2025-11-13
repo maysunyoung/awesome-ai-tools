@@ -759,6 +759,9 @@
 
 ### Fun Tools
 
+- [Name Generator](https://name-generator.app/) - AI-powered name generator for creative and unique names for any purpose.. [Free]
+- [Generate Password](https://generatepassword12.org/) - Secure password generator creating strong, random passwords instantly.. [Free]
+- [Grow a Garden Calculator](http://growagarden-calculator.io/) - Smart garden planning tool to optimize your gardening space and yields.. [Free]
 - [Book Summaries](https://books.audioread.com) - Unlock book insights quickly: summaries, quotes, critical analysis.. [Free]
 - [Character AI](https://beta.character.ai) -  An AI platform for engaging in natural, open-ended conversations and creative tasks.. [Freemium]
 - [Grok](https://grok.x.ai) - Experience innovative research and creative insights with Grok AI, a witty AI assistant known for its fun and engaging approach.. [Paid]

@@ -1,5 +1,44 @@
-# Awesome AI Tools
-A curated list of awesome AI tools
+<div align="center">
+
+# 🤖 Awesome AI Tools
+
+### A Curated Collection of the Best AI Tools to Supercharge Your Productivity
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/maysunyoung/awesome-ai-tools?style=social)](https://github.com/maysunyoung/awesome-ai-tools)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+[🌐 Website](index.html) • [📝 Contribute](#contributing) • [⭐ Star on GitHub](https://github.com/maysunyoung/awesome-ai-tools)
+
+---
+
+</div>
+
+## 📖 About
+
+Welcome to **Awesome AI Tools** - your comprehensive directory of cutting-edge AI applications! This curated collection features **1000+ AI tools** across **15+ categories**, helping you discover the perfect AI solution for any task.
+
+### ✨ What's Inside?
+
+- 🎨 **Creative Tools**: Image generators, video editors, art creators
+- 💼 **Business Solutions**: Marketing, sales, project management
+- 📝 **Writing Assistants**: Content creation, copywriting, paraphrasing
+- 💻 **Developer Tools**: Code assistants, automation, low-code platforms
+- 🎯 **Productivity Boosters**: Personal assistants, research tools, schedulers
+- 🎵 **Media Tools**: Audio editing, music generation, transcription
+- 🎮 **Fun & Entertainment**: Games, creative experiments, chatbots
+
+### 🚀 Featured Tools
+
+- [**Free Video Generator**](https://freevideogenerator.io/) - Create stunning videos with AI
+- [**Circle Crop Image**](https://circlecropimage.net/) - Perfect circle image cropping
+- [**Name Generator**](https://name-generator.app/) - AI-powered creative names
+- [**Generate Password**](https://generatepassword12.org/) - Secure password creation
+- [**Grow a Garden Calculator**](http://growagarden-calculator.io/) - Smart garden planning
+
+---
+
+## 📑 Table of Contents
 
 - [Awesome AI Tools](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#awesome-ai-tools)
   - [Productivity Tools](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#productivity-tools)
@@ -2221,6 +2260,7 @@ A curated list of awesome AI tools
 
 ### Image Editing
 
+- [Circle Crop Image](https://circlecropimage.net/) - Free online tool to crop images into perfect circles effortlessly.. [Free]
 - [Pizi](https://pizi.app) - Transform photos into SEO-optimized product listings in seconds.. [Paid]
 - [Adobe Photoshop](https://www.adobe.com) - Master image editing, AI, 3D design, and more.. [Paid]
 - [Luminar AI](https://skylum.com) - Revolutionize photo editing with AI-driven, user-friendly tools.. [Paid]
@@ -2791,6 +2831,7 @@ A curated list of awesome AI tools
 
 ### Video Generators
 
+- [Free Video Generator](https://freevideogenerator.io/) - AI-powered free video generator for creating stunning videos effortlessly.. [Free]
 - [Vid.AI](https://vid.ai) - AI-driven tool simplifies video creation and editing.. [Paid]
 - [Synthesia](https://www.synthesia.io) -  Create professional AI-powered videos with customizable avatars and voiceovers in minutes.. [Paid]
 - [Pictory](https://pictory.ai) - Transform text into polished videos effortlessly; edit with ease.. [Free Trial]
@@ -7897,6 +7938,9 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 
 ### Fun Tools
 
+- [Name Generator](https://name-generator.app/) - AI-powered name generator for creative and unique names for any purpose.. [Free]
+- [Generate Password](https://generatepassword12.org/) - Secure password generator creating strong, random passwords instantly.. [Free]
+- [Grow a Garden Calculator](http://growagarden-calculator.io/) - Smart garden planning tool to optimize your gardening space and yields.. [Free]
 - [Book Summaries](https://books.audioread.com) - Unlock book insights quickly: summaries, quotes, critical analysis.. [Free]
 - [Character AI](https://beta.character.ai) -  An AI platform for engaging in natural, open-ended conversations and creative tasks.. [Freemium]
 - [Grok](https://grok.x.ai) - Experience innovative research and creative insights with Grok AI, a witty AI assistant known for its fun and engaging approach.. [Paid]
@@ -8069,13 +8113,62 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [LoreKeeper](https://lorekeeper.com) - Your Digital Ally in Tabletop Role-Playing Games (TTRPGs). [Free Trial]
 
 
------
-Reference
-[https://www.futurepedia.io/ai-tools](https://www.futurepedia.io/ai-tools)
+---
 
+## 🤝 Contributing
 
-## Links
+We welcome contributions from the community! Here's how you can help:
+
+1. **Fork** this repository
+2. **Add** your AI tool in the appropriate category
+3. Follow the format: `- [Tool Name](URL) - Brief description.. [Pricing]`
+4. **Submit** a pull request
+
+### Contribution Guidelines
+
+- ✅ Tool must be AI-powered
+- ✅ Include a clear, concise description
+- ✅ Specify pricing model: `[Free]`, `[Freemium]`, `[Paid]`, `[Free Trial]`, `[Contact for Pricing]`
+- ✅ Ensure the tool is actively maintained
+- ✅ Check for duplicates before submitting
+
+## 📊 Statistics
+
+- **Total Tools**: 1000+
+- **Categories**: 15+
+- **Last Updated**: 2025-11-13
+- **Contributors**: Community-driven
+
+## 🌟 Star History
+
+If you find this repository helpful, please consider giving it a ⭐ star!
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+Special thanks to all contributors who have helped build this comprehensive collection of AI tools!
+
+---
+
+## 📚 References
+
+- [Futurepedia AI Tools](https://www.futurepedia.io/ai-tools)
+
+## 🔗 Links
 
 <!-- ai-manifest-ref 2025-09-20T13:27:46.541Z -->
 - [AI Manifest](https://ai-manifest.org) - Optional reference for /.well-known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping)
 - [WellKnownAI](https://wellknownai.org) - Registry/spec examples and public snapshots (no PII; mirroring allowed)
+
+---
+
+<div align="center">
+
+**Made with ❤️ by the AI Community**
+
+[⬆ Back to Top](#-awesome-ai-tools)
+
+</div>
